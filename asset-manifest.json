@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tetris-react-hooks/static/css/main.8d1cf24e.chunk.css",
+    "main.js": "/tetris-react-hooks/static/js/main.802f469f.chunk.js",
+    "main.js.map": "/tetris-react-hooks/static/js/main.802f469f.chunk.js.map",
+    "runtime~main.js": "/tetris-react-hooks/static/js/runtime~main.70642a4d.js",
+    "runtime~main.js.map": "/tetris-react-hooks/static/js/runtime~main.70642a4d.js.map",
+    "static/css/2.1688eb18.chunk.css": "/tetris-react-hooks/static/css/2.1688eb18.chunk.css",
+    "static/js/2.9a8a2b29.chunk.js": "/tetris-react-hooks/static/js/2.9a8a2b29.chunk.js",
+    "static/js/2.9a8a2b29.chunk.js.map": "/tetris-react-hooks/static/js/2.9a8a2b29.chunk.js.map",
+    "index.html": "/tetris-react-hooks/index.html",
+    "precache-manifest.3b8dd657d6dee8c1a108440c9e09e1e5.js": "/tetris-react-hooks/precache-manifest.3b8dd657d6dee8c1a108440c9e09e1e5.js",
+    "service-worker.js": "/tetris-react-hooks/service-worker.js",
+    "static/css/2.1688eb18.chunk.css.map": "/tetris-react-hooks/static/css/2.1688eb18.chunk.css.map",
+    "static/css/main.8d1cf24e.chunk.css.map": "/tetris-react-hooks/static/css/main.8d1cf24e.chunk.css.map"
+  }
+}
